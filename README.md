@@ -2,6 +2,8 @@
 
 GoAsk is a command-line tool that uses AI to suggest and execute Linux commands based on natural language descriptions.
 
+https://github.com/user-attachments/assets/d4a02d95-533f-4c64-9a53-95651e449396
+
 ## Installation
 
 1. Ensure you have Go installed on your system. If not, download and install it from [golang.org](https://golang.org/).
@@ -9,6 +11,8 @@ GoAsk is a command-line tool that uses AI to suggest and execute Linux commands 
 2. Clone this repository or download the `goask.go` file.
 
 3. Install the required dependencies:
+
+
    ```
    go get github.com/joho/godotenv
    ```
